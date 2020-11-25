@@ -1,9 +1,11 @@
-# flutter-blue-sample
+# Vertechair Bluetooth App
 
-Sample Flutter App for Android and iOS that scans for Bluetooth LE devices and displays the services published by the devices.
+A cross-platform app that allows Vertechair Customers to adjust chair settings.
 
-Based on https://github.com/pauldemarco/flutter_blue/tree/master/example
+## Author
 
-Read the article...
+* **Andrew** - [Email Me!](mailto:jimappleseed2@gmail.com)
 
-[_"Your First Bluetooth Low Energy App with Flutter"_](https://lupyuen.github.io/pinetime-rust-mynewt/articles/flutter)
+## Acknowledgments
+
+* Paul DeMarco - Authored Flutter Bluetooth library and provided starter code - [GitHub](https://github.com/pauldemarco)
