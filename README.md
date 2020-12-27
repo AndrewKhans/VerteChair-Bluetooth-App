@@ -1,6 +1,6 @@
 # Vertechair Bluetooth App
 
-A cross-platform app that allows Vertechair Customers to adjust chair settings.
+A cross-platform Flutter app that allows Vertechair Customers to adjust chair settings.
 
 ## Author
 
